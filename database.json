@@ -1,0 +1,97 @@
+{
+    "cusinielist":[
+        {"id": 1, "name": "Thai", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 2, "name": "Indian ", "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"},
+        {"id": 3, "name": "Italian", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 4, "name": "Chinese", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 5, "name": "Korean", "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"},
+        {"id": 6, "name": "African", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 7, "name": "American", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 8, "name": "Baked Goods", "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"},
+        {"id": 9, "name": "Caribbean", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 10, "name": "Dessert", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"},
+        {"id": 11, "name": "Japanese", "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"},
+        {"id": 12, "name": "Latin American", "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"}
+       
+      ],
+      "popularweek":[
+       
+        {"chefid": 244, "chefname": "Samir maurya", "chefprofile": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg", "reviewCnt": 0},
+        {"chefid": 235, "chefname": "Avani", "chefprofile": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg","reviewCnt": 1},
+        {"chefid": 214, "chefname": "Monica", "chefprofile": "https://www.themealdb.com/images/media/meals/1529444113.jpg", "reviewCnt": 0},
+        {"chefid": 152, "chefname": "Mohit", "chefprofile": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg", "reviewCnt": 2},
+        {"chefid": 151, "chefname": "Simran", "chefprofile": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg", "reviewCnt": 25},
+        {"chefid": 148, "chefname": "tom", "chefprofile": "https://www.themealdb.com/images/media/meals/1529444113.jpg", "reviewCnt": 0},
+        {"chefid": 141, "chefname": "Suraj", "chefprofile": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg", "reviewCnt": 1},
+        {"chefid": 42, "chefname": "Anuradha", "chefprofile": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg", "reviewCnt": 0},
+        {"chefid": 41, "chefname": "Alex", "chefprofile": "https://www.themealdb.com/images/media/meals/1529444113.jpg", "reviewCnt": 3}
+        ],
+        "chefweek":[
+          {
+          "chefid": 151,
+          "chefname": "Simran",
+          "chefprofile": "https://reqres.in/img/faces/7-image.jpg",
+          "aboutChef": "I'm Indi, a private plant‑based chef and baker of over seven years currently stationed in NYC area. The purpose of my mission is to provide innovation and inspiration via the nourishing powers of plant foods. I've been living by helping to heal and transform lives through the awareness of the medicinal, physical, mental and spiritual properties of Earth's foods without compromising the same satisfying flavors we enjoy. I offer custom, goal‑based meal planning and preparation, nutritional and culinary advice, artisanal baking services, video based cooking tutorials, and menu and recipe writing. I also cater events! If ever you're looking for a plant‑based chef for your next event, do contact me at indieelement@protonmail.com. I'd love to work with you!",
+          "chef_cusinie":[
+          {
+          "id": 6,
+          "name": "African"
+          },
+          {
+          "id": 1,
+          "name": "Thai"
+          }
+          ],
+          "totalRating": 25,
+          "reviewCnt": "3.86"
+          }
+          ],
+
+          "meals": [
+            {
+                "strMeal": "Chick-Fil-A Sandwich",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+                "idMeal": "53016"
+            },
+            {
+                "strMeal": "Chicken Couscous",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+                "idMeal": "52850"
+            },
+            {
+                "strMeal": "Chicken Fajita Mac and Cheese",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+                "idMeal": "52818"
+            },
+            {
+                "strMeal": "Chicken Ham and Leek Pie",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+                "idMeal": "52875"
+            },
+            {
+                "strMeal": "Chicken Quinoa Greek Salad",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+                "idMeal": "53011"
+            },
+            {
+                "strMeal": "General Tso's Chicken",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+                "idMeal": "52951"
+            },
+            {
+                "strMeal": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+                "idMeal": "52993"
+            },
+            {
+                "strMeal": "Katsu Chicken curry",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+                "idMeal": "52820"
+            },
+            {
+                "strMeal": "Rappie Pie",
+                "strMealThumb": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+                "idMeal": "52933"
+            }
+        ]
+}
